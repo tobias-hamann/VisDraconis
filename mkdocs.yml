@@ -7,8 +7,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: darkSlateGrey # 607D8B #300
-      accent: 500 # indigo
+      primary: blue grey
+      accent: deep purple
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -16,8 +16,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: darkSlateGrey
-      accent: blue
+      primary: blue grey
+      accent: teal
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
