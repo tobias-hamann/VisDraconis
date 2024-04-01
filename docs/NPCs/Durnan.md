@@ -1,6 +1,6 @@
 # Durnan
 
-#NPC #Waterdeep
+Tags: #NPC #Waterdeep
 
 
 --- 
