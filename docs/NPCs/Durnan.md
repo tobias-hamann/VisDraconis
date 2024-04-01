@@ -1,5 +1,8 @@
 # Durnan
 
+#NPC #Waterdeep
+
+
 --- 
 tags: 
 - NPC 

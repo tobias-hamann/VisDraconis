@@ -1,5 +1,8 @@
 # Yawning Portal
 
+#Location #Waterdeep
+
+
 --- 
 tags: 
 - Location
