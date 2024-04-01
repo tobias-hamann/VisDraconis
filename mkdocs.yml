@@ -7,7 +7,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: Blue Gray 500 # 607D8B #300
+      primary: darkSlateGrey # 607D8B #300
       accent: 500 # indigo
       toggle:
         icon: material/toggle-switch-off-outline
