@@ -11,3 +11,5 @@ name: <% tp.config.target_file.basename %>
 <% await tp.file.move("/docs/NPCs/" + tp.config.target_file.basename) %>
 
 <% tp.frontmatter.name %>
+
+![<% tp.file.tags%>](../assets/images/<% tp.file.title %>)
