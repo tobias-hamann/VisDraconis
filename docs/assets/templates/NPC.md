@@ -7,5 +7,5 @@ name: <% tp.file.title %>
 
 --- 
 
-#[[<% ti.file.title %>]]
+#[[<% tp.file.title %>]]
 <% await tp.file.move("/docs/NPCs/" + tp.file.title) %>

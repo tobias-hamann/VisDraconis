@@ -4,5 +4,5 @@ date: <% tp.date %>
 
 ---
 
-#[[<% ti.file.title %>]]
+#[[<% tp.file.title %>]]
 <% await tp.file.move("/docs/Sessions/" + tp.file.title) %>
