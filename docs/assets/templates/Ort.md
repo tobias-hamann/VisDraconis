@@ -8,7 +8,8 @@ await tp.file.rename(`${title}`);
 %>
 creation date: <% tp.file.creation_date() %> 
 modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
-name: <%* tR += `${title}` %>
+name: <%* tR += `${title}` %> 
+campaign: VisDraconis
 type: ort
 tags:
 
