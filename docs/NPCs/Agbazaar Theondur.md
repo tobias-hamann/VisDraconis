@@ -1,1 +1,1 @@
-![[Agbazaar_Theondur.jpg]]
+![[assets/img/Agbazaar_Theondur.jpg]]
