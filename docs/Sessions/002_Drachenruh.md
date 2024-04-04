@@ -14,7 +14,7 @@ tags:
 
 Tags: 
 
-Vorherige Session: `=(this.sessionNum)`
+Vorherige Session: [[001_Der Beginn]]
 ```dataview
 LIST
 WHERE sessionNum = 1

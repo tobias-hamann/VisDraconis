@@ -21,7 +21,7 @@ tags:
 <% await tp.file.move("/docs/Sessions/" + tp.config.target_file.basename) %>
 Tags: 
 
-Vorherige Session: `=(this.sessionNum)`
+Vorherige Session: 
 ```dataview
 LIST
 WHERE sessionNum = <%* tR += `${sessionNum-1}` %>

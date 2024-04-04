@@ -16,7 +16,7 @@ Tags:
 
 Vorherige Session: -
 
-Nachfolgende Session: 
+Nachfolgende Session: [[002_Drachenruh]]
 ```dataview
 LIST
 WHERE sessionNum = 2
