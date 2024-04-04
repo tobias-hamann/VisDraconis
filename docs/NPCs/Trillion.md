@@ -8,4 +8,4 @@ name: Untitled
 --- 
 
 
-![Trillion](../assets/Trillion.jpeg)
+![Trillion](../assets/images/Trillion.jpeg)
