@@ -6,5 +6,6 @@ name: Untitled
 
 
 --- 
-<< [[2024-04-03]] | [[2024-04-05]] >> # Untitled > [!quote] Life is a learning experience, only if you learn.
-> — Yogi Berra
+
+
+![Trillion](/docs/assets/Trillion.jpeg)
