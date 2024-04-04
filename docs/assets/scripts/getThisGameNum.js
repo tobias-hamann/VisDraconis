@@ -2,12 +2,10 @@ function getThisGameNum (tp) {
     let thisCampaign = tp.file.folder(false);
     
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"/${thisCampaign}"`)
+        .pages(`"docs/Sessions"`)
         .where(page => {
             if (page.type === 'session') {
-                if (page.campaign === thisCampaign) {
-                    return true
-                }
+                return true
             }
         }).length
 
