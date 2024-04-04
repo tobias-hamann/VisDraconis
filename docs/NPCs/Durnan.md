@@ -12,11 +12,11 @@ faction:
 Tags: #NPC #Waterdeep
 
 
-## Aussehen:
+### Aussehen:
 ![](../assets/images/Durnan.png)
 
 ### Beschäftigung:
 Barkeeper of the [[Yawning Portal]]
 
 
-#### Informationen:
+### Informationen:
