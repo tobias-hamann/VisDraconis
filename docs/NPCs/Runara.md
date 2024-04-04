@@ -1,9 +1,24 @@
-# Runara
+
+--- 
+creation date: 2024-04-04 20:24 
+modification date: Thursday 4th April 2024 20:25:07 
+name: Runara
+faction: Neutral
+
+--- 
+
+#[[Runara]]
 
 Tags: #NPC #Drachenruh
 
+## Aussehen:
+![](../assets/images/Runara.png)
+
+### Beschäftigung:
+Hüterin von [[Drachenruh]]
+
+#### Informationen:
 - Erscheint als Menschenfrau
 - Kennt sich mit Drachen aus
 - Ist ein Bronzedrache
-- Hüterin von [[Drachenruh]]
 - Pazifistin

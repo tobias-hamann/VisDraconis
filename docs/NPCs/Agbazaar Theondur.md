@@ -1,4 +1,4 @@
-![Agbazaar Theondur](../assets/images/Agbazaar_Theondur.jpg "Agbazaar Theondur")
+![Agbazaar Theondur](../assets/images/Agbazaar_Theondur.png "Agbazaar Theondur")
 
 
 

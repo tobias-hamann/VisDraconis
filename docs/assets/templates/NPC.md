@@ -16,13 +16,12 @@ faction:
 --- 
 
 #[[<% tp.config.target_file.basename %>]]
-
 <% await tp.file.move("/docs/NPCs/" + tp.config.target_file.basename) %>
+Tags: 
 
-
-Aussehen:
+## Aussehen:
 ![<% tp.file.tags%>](../assets/images/<% tp.config.target_file.basename %>.png)
 
-Beschäftigung:
+### Beschäftigung:
 
-Informationen:
+#### Informationen:

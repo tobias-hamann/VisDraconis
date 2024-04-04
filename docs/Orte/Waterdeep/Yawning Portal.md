@@ -3,4 +3,4 @@
 Tags: #Location #Waterdeep
 
 
-Owner: [[Durnan]]
+Owner: [[Durnan2]]
