@@ -4,6 +4,9 @@ creation date: 2024-04-04 20:24
 modification date: Thursday 4th April 2024 20:25:07 
 name: Runara
 faction: Neutral
+type: npc
+alignment: ?
+tags:
 
 --- 
 
