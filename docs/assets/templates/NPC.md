@@ -11,6 +11,7 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 name: <%* tR += `${title}` %>
 type: npc 
 campaign: VisDraconis
+race: 
 faction:
 alignment: ?
 tags:
