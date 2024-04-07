@@ -1,11 +1,4 @@
-# Obsidian Notes
+# Vis Draconis
 
-Publish your public notes with MkDocs
+Die Dokumentation für das D&D Abenteuer, in dem die Ökonomie in Trümmern liegt und böse Mächte am Werk sind.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
