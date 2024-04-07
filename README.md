@@ -34,4 +34,18 @@ Um mitzuarbeiten, folge der folgenden Anleitung:
 
 ## Add-on: Chat-GPT Support
 
-15. Lass dir von deinem DM eine `.env`-Datei schicken und lege sie im Ordner `..VisDraconis\` ab.
+15. Lass dir von deinem DM einen `OPENAI_API_KEY` schicken.
+16. Installiere [Python](https://www.python.org/downloads/)
+17. Gehe in den Ordner `..VisDraconis\docs\assets\scripts\python` und führe `init_chatbot.bat` aus. Virenscanner könnten beunruhigt sein, aber es ist alles okay.
+18. Suche im System nach `Umgebungsvariablen`
+
+![Obsidian Vault auswählen](/docs/assets/images/Meta/Readme_4.png)
+
+19. Klicke auf `Umgebungsvariablen für dieses Konto bearbeiten`
+20. Klicke auf neu und gebe als Variable `OPENAI_API_KEY` ein. Der Wert ist der, den dir dein DM geschickt hat.
+
+![Obsidian Vault auswählen](/docs/assets/images/Meta/Readme_5.png)
+
+21. Klicke `OK` und nochmal `OK`.
+22. Führe `Chat.py` aus
+
