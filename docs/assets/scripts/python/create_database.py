@@ -6,8 +6,8 @@ from langchain.vectorstores.chroma import Chroma
 import os
 import shutil
 
-CHROMA_PATH = "../../../chroma"
-DATA_PATH = "../../../"
+CHROMA_PATH = "chroma"
+DATA_PATH = "docs"
 
 
 def main():
