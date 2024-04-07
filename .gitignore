@@ -1,3 +1,7 @@
 .vscode/settings.json
 .obsidian/*
 DM/*
+docs/assets/scripts/python/.env
+.env
+docs/assets/scripts/python/__pycache__/create_database.cpython-39.pyc
+docs/assets/scripts/python/__pycache__/query_data.cpython-39.pyc
