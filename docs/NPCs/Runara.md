@@ -16,6 +16,7 @@ Tags: #NPC #Drachenruh
 
 ### Aussehen:
 ![](../assets/images/Runara.png)
+- an elderly human woman with weathered brown skin, white hair in tight braids, and kindly hazel eyes, dressed in a simple white robe. She smiles, full body shot, realistic, dark fantasy
 
 ### Beschäftigung:
 Hüterin von [[Drachenruh]]

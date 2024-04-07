@@ -1,20 +1,20 @@
 ---
-creation date: 2024-04-04 23:50 
-modification date: Thursday 4th April 2024 23:50:47 
-name: Drachenruh
+creation date: 2024-04-07 19:50 
+modification date: Sunday 7th April 2024 19:50:57 
+name: Die Kompassrose
 type: session 
 campaign: VisDraconis
 sessionNum: 002
 Summary: ""
-sessionDate: 
+sessionDate: 2022-01-05
 tags:
 --- 
 
-# [[002_Drachenruh]]
+# [[002_Die Kompassrose]]
 
 Tags: 
 
-Vorherige Session: [[001_Der Beginn]]
+Vorherige Session: 
 ```dataview
 LIST
 WHERE sessionNum = 1
@@ -30,4 +30,6 @@ Vorgeschichte:
 ```
 Im Jahre 920 
 ```
+
+An B
 
