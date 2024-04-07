@@ -2,6 +2,8 @@
 
 cd ../../../../
 
+git checkout master
+
 git status
 
 git pull
