@@ -12,6 +12,8 @@ git status
 
 git checkout %COMPUTERNAME%
 
+git merge main -m "Merge main into %COMPUTERNAME%"
+
 timeout /t 5
 
 exit
