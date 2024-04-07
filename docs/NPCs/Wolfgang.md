@@ -20,6 +20,7 @@ Tags: #Niewinter #Werwolf
 ![](../assets/images/Wolfgang.png)
 
 ### Beschäftigung:
+- Hat einen Gemischtwarenladen in [[Niewinter]]
 
 ### Informationen:
 - Wir haben Armdrücken mit ihm gemacht
