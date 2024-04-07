@@ -2,7 +2,7 @@
 
 cd ../../../../
 
-git checkout master
+git checkout main
 
 git status
 
