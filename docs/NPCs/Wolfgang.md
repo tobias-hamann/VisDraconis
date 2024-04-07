@@ -21,6 +21,7 @@ Tags: #Niewinter #Werwolf
 
 ### Beschäftigung:
 - Hat einen Gemischtwarenladen in [[Niewinter]]
+- Besucht gern die [[Wechselstube]]
 
 ### Informationen:
 - Wir haben Armdrücken mit ihm gemacht
