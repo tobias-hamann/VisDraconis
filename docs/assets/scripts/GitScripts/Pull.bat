@@ -10,7 +10,7 @@ git pull
 
 git status
 
-git checkout -b %COMPUTERNAME%
+git checkout %COMPUTERNAME%
 
 timeout /t 5
 
