@@ -15,7 +15,7 @@ tags:
 Tags: 
 
 ### Aussehen:
-![](../assets/images/Agbazaar_Theondur.png)
+![](../assets/images/NPCs/Agbazaar_Theondur.png)
 
 ### Beschäftigung:
 

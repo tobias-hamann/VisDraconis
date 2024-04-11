@@ -16,7 +16,7 @@ Tags: #NPC #Waterdeep
 
 
 ### Aussehen:
-![](../assets/images/Durnan.png)
+![](../assets/images/NPCs/Durnan.png)
 
 ### Beschäftigung:
 Barkeeper of the [[docs/Orte/Waterdeep/Yawning Portal]]

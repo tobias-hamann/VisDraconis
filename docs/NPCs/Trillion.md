@@ -15,7 +15,7 @@ tags:
 Tags: #Niewinter
 
 ### Aussehen:
-![](../assets/images/Trillion.png)
+![Trillion](../assets/images/NPCs/Trillion.png)
 
 ### Beschäftigung:
 - Arbeitet bei der Stadtwache von [[Niewinter]]

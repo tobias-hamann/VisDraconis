@@ -17,7 +17,7 @@ tags:
 Tags: #Niewinter #Werwolf
 
 ### Aussehen:
-![](../assets/images/Wolfgang.png)
+![](../assets/images/NPCs/Wolfgang.png)
 
 ### Beschäftigung:
 - Hat einen Gemischtwarenladen in [[Niewinter]]

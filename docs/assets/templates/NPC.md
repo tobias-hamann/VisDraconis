@@ -23,7 +23,7 @@ tags:
 Tags: 
 
 ### Aussehen:
-![<% tp.file.tags%>](../assets/images/<% tp.config.target_file.basename %>.png ", full body shot, realistic, concept art, dark fantasy")
+![<% tp.config.target_file.basename %>](../assets/images/NPCs/<% tp.config.target_file.basename %>.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
 - 

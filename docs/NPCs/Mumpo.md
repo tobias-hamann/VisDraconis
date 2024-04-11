@@ -17,7 +17,7 @@ tags:
 Tags: #Drachenruh #Runara 
 
 ### Aussehen:
-![](../assets/images/Mumpo.png)
+![](../assets/images/NPCs/Mumpo.png)
 
 ### Beschäftigung:
 - Wohnt in [[Drachenruh]]

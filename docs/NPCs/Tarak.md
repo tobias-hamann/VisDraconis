@@ -17,7 +17,7 @@ tags:
 Tags: #Drachenruh #Runara 
 
 ### Aussehen:
-![Tarak](../assets/images/Tarak.png "Tarak is a human in late middle age. He has pale skin tanned darker with many freckles, auburn hair and a beard that is mostly gray, and gray-blue eyes. Faded tattoos of a rope around his neck in an abstract design peek up the side of his neck from beneath his dirt-stained robes, full body shot, realistic, dark fantasy, full body shot, realistic, dark fantasy")
+![Tarak](../assets/images/NPCs/Tarak.png "Tarak is a human in late middle age. He has pale skin tanned darker with many freckles, auburn hair and a beard that is mostly gray, and gray-blue eyes. Faded tattoos of a rope around his neck in an abstract design peek up the side of his neck from beneath his dirt-stained robes, full body shot, realistic, dark fantasy, full body shot, realistic, dark fantasy")
 
 - Tatoo um Hals, Seil
 - Symbol der Diebesgilde "zum Goldenen Galgen"

@@ -17,7 +17,7 @@ tags:
 Tags: #Drachenruh #Runara
 
 ### Aussehen:
-![](../assets/images/Blep.png)
+![](../assets/images/NPCs/Blep.png)
 
 ### Beschäftigung:
 - Wohnt in [[Drachenruh]]
