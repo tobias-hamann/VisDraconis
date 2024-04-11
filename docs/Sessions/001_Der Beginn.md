@@ -23,7 +23,6 @@ WHERE sessionNum = 2
 ```
 
 ### Informationen:
-
 - Ankunft in Drachenruh
 - Einige Probleme auf den Inseln
 	- Probleme mit den Mykonieden in den [[Seeschaumhöhlen]]
