@@ -1,4 +1,3 @@
-
 <%* 
 let title = tp.file.title 
 if (title.startsWith("Untitled")) {
@@ -8,18 +7,19 @@ await tp.file.rename(`${title}`);
 %>
 creation date: <% tp.file.creation_date() %> 
 modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
-name: <%* tR += `${title}` %>
-type: fraktion
+name: <%* tR += `${title}` %> 
 campaign: VisDraconis
-alignment: ?
+type: item
 tags:
 
 --- 
 
 # [[<% tp.config.target_file.basename %>]]
-<% await tp.file.move("/docs/Fraktionen/" + tp.config.target_file.basename) %>
+<% await tp.file.move("/docs/Items/" + tp.config.target_file.basename) %>
 Tags: 
 
+### Ort/Besitz:
+- 
 
 ### Informationen:
 - 
