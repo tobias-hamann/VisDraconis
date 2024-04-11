@@ -6,7 +6,7 @@ type: session
 campaign: VisDraconis
 sessionNum: 001
 Summary: ""
-sessionDate: 
+sessionDate: 2022-12-22
 tags:
 --- 
 
@@ -23,7 +23,6 @@ WHERE sessionNum = 2
 ```
 
 ### Informationen:
-Vorgeschichte:
-```
-Im Jahre 900 iwas
-```
+- Ankunft in Drachenruh
+- Einige Probleme auf den Inseln
+	- Probleme mit den Mykonieden in den [[Seeschaumhöhlen]]
