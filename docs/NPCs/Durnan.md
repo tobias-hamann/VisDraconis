@@ -3,8 +3,10 @@
 creation date: 2024-04-04 20:32 
 modification date: Thursday 4th April 2024 20:32:34 
 name: Durnan
+type: npc 
+campaign: VisDraconis
+race: Human
 faction:
-type: npc
 alignment: ?
 tags:
 
