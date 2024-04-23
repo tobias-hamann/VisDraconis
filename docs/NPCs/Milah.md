@@ -6,7 +6,7 @@ name: Milah
 type: npc 
 campaign: VisDraconis
 race: Kobold
-faction:
+faction: Runara
 alignment: ?
 tags:
 
@@ -23,5 +23,5 @@ Tags: #Runara #Drachenruh
 - In [[Drachenruh]] mit Alchemie, Technik und Magie experimentieren
 
 ### Informationen:
-- Myla (rechtmäßige gute Koboldtüftlerin) ist ein geflügelter Kobold, deren Brüder [[Mek]] und [[Minn]] jetzt [[Funkenschinder]], dem blauen Wyrmling im Clifftop-Observatorium folgen. 
+- Myla (rechtmäßige gute Koboldtüftlerin) ist ein geflügelter Kobold, deren Brüder [[Mek]] und [[Minn]] jetzt [[Longfra]], dem blauen Wyrmling im Clifftop-Observatorium folgen. 
 - Als Mylas Flügel bei einem Angriff von Stirges (die sie als "hungrige, eklige, blutsaugende Fledermausdinger" beschreibt) schwer verletzt wurden, half [[Runara]] ihr bei der Genesung. 

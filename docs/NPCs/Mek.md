@@ -6,7 +6,7 @@ name: Mek
 type: npc 
 campaign: VisDraconis
 race: Kobold
-faction:
+faction: Runara
 alignment: ?
 tags:
 

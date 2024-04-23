@@ -5,8 +5,8 @@ modification date: Monday 22nd April 2024 18:50:23
 name: Minn
 type: npc 
 campaign: VisDraconis
-race: 
-faction:
+race: Kobold
+faction: Runara
 alignment: ?
 tags:
 
