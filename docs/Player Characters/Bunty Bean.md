@@ -1,10 +1,10 @@
 ---
 creation date: 2024-04-11 20:42 
 modification date: Thursday 11th April 2024 20:43:03 
-name: Wollknäul McFluffin Toebean
+name: Bunty Bean
 type: pc 
 campaign: VisDraconis
-race: Tabaxi
+race: Raccoonfolk
 faction:
 alignment: ?
 tags:
@@ -15,10 +15,10 @@ tags:
 
 Tags: #PC
 
-[D&D Beyond](https://www.dndbeyond.com/characters/89121853)
+[D&D Beyond](https://www.dndbeyond.com/characters/109353622)
 
 ### Aussehen:
-![](../assets/images/Wollknäul McFluffin Toebean.png ", full body shot, realistic, concept art, dark fantasy")
+![](../assets/images/Bunty_Bean.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
 - 

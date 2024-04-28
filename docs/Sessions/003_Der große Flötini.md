@@ -6,13 +6,13 @@ type: session
 campaign: VisDraconis
 sessionNum: 003
 Summary: ""
-sessionDate: 
+sessionDate: 2023-01-19
 tags:
 --- 
 
 # [[003_Der große Flötini]]
 
-Tags: 
+Tags: #Drachenruh 
 
 Vorherige Session: 
 ```dataview

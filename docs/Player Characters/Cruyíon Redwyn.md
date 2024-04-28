@@ -1,24 +1,24 @@
 ---
 creation date: 2024-04-11 20:41 
 modification date: Thursday 11th April 2024 20:41:03 
-name: Varon Fogwater
+name: Cruyíon Redwyn
 type: pc 
 campaign: VisDraconis
-race: 
+race: Eladrin
 faction:
 alignment: ?
 tags:
 
 --- 
 
-# [[Varon Fogwater]]
+# [[Cruyíon Redwyn]]
 
 Tags: #PC
 
-[D&D Beyond](https://www.dndbeyond.com/characters/89035281)
+[D&D Beyond](https://www.dndbeyond.com/characters/86996109)
 
 ### Aussehen:
-![](../assets/images/Varon Fogwater.png ", full body shot, realistic, concept art, dark fantasy")
+![](../assets/images/Cruyion.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
 - 
