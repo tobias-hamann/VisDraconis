@@ -16,7 +16,7 @@ tags:
 
 # [[<% tp.config.target_file.basename %>]]
 <% await tp.file.move("/docs/Items/" + tp.config.target_file.basename) %>
-Tags: 
+Tags: #Item
 
 ### Ort/Besitz:
 - 

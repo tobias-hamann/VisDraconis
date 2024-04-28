@@ -14,7 +14,7 @@ tags:
 
 # [[Longfra]]
 
-Tags: 
+Tags: #Drachenruh 
 
 ### Aussehen:
 ![Longfra](../assets/images/NPCs/Longfra.png "evil young dragon, blue, lightning, full body shot, realistic, concept art, dark fantasy")

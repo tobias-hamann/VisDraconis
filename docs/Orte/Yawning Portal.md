@@ -10,7 +10,7 @@ tags:
 
 # [[Yawning Portal]]
 
-Tags: 
+Tags: #Waterdeep 
 
 #### Owner: [[Durnan]]
 ### Informationen:

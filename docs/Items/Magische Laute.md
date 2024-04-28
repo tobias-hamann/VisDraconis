@@ -10,7 +10,7 @@ tags:
 
 # [[Magische Laute]]
 
-Tags: 
+Tags: #Item
 
 ### Ort/Besitz:
 - Im Besitz von [[Arush 'Ari']]

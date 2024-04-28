@@ -19,7 +19,7 @@ tags:
 
 # [[<% tp.config.target_file.basename %>]]
 <% await tp.file.move("/DM/DM_Sessions/" + tp.config.target_file.basename) %>
-Tags: 
+Tags: #DM-Session
 
 Vorherige Session: 
 ```dataview

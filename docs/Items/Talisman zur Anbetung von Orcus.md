@@ -10,7 +10,7 @@ tags:
 
 # [[Talisman zur Anbetung von Orcus]]
 
-Tags: #Orcus
+Tags: #Item #Orcus 
 
 ### Ort/Besitz:
 - [[Drachenruh]]

@@ -20,7 +20,7 @@ tags:
 
 # [[<% tp.config.target_file.basename %>]]
 <% await tp.file.move("/docs/NPCs/" + tp.config.target_file.basename) %>
-Tags: 
+Tags: #NPC
 
 ### Aussehen:
 ![<% tp.config.target_file.basename %>](../assets/images/NPCs/<% tp.config.target_file.basename %>.png ", full body shot, realistic, concept art, dark fantasy")

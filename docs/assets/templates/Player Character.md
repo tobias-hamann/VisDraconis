@@ -20,7 +20,7 @@ tags:
 
 # [[<% tp.config.target_file.basename %>]]
 <% await tp.file.move("/docs/Player Characters/" + tp.config.target_file.basename) %>
-Tags: 
+Tags: #PC 
 
 [D&D Beyond]()
 

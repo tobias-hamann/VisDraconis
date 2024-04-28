@@ -12,7 +12,7 @@ tags:
 
 # [[Azure Wolves]]
 
-Tags: 
+Tags: #Fraktion
 
 
 ### Informationen:

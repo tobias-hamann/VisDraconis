@@ -14,12 +14,12 @@ tags:
 
 Tags: #Drachenruh 
 
-Vorherige Session: 
+Vorherige Session: [[003_Der große Flötini]]
 ```dataview
 LIST
 WHERE sessionNum = 3
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[005_Hilfe für Aidron]]
 ```dataview
 LIST
 WHERE sessionNum = 5

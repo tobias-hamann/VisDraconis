@@ -10,7 +10,7 @@ tags:
 
 # [[White Orb of Dragonkind]]
 
-Tags: 
+Tags: #Item
 
 ### Ort/Besitz:
 - Im Rucksack von 

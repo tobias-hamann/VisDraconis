@@ -18,7 +18,7 @@ tags:
 
 # [[<% tp.config.target_file.basename %>]]
 <% await tp.file.move("/docs/Fraktionen/" + tp.config.target_file.basename) %>
-Tags: 
+Tags: #Fraktion
 
 
 ### Informationen:

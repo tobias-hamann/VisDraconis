@@ -5,7 +5,6 @@ campaign: VisDraconis
 name: 1
 type: campaign
 Summary: ""
-sessionDate: 
 tags:
 --- 
 
@@ -17,12 +16,12 @@ WHERE type = "session"
 
 ## Prequel: [[Drachenruh]]
 - [[001_Der Beginn]]
-- [[002_Drachenruh]]
+- [[002_Die Kompassrose]]
 - [[003_Der große Flötini]]
 - [[004_Die Seegrashöhlen]]
 - [[005_Hilfe für Aidron]]
 - [[006_Lonfra's Ritual]]
 
-## Akt 1: [[Die Roten]] in Niewinter
+## Akt 1: [[Die Roten]] in [[Niewinter]]
 - [[007_Ankunft in Niewinter]]
 

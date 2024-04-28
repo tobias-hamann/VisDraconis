@@ -14,7 +14,7 @@ tags:
 
 # [[Ishamael]]
 
-Tags: 
+Tags: #Waterdeep 
 
 ### Aussehen:
 ![](../assets/images/NPCs/Ishamael.png "Muscular 60 year old man, white button down shirt and blue pants, black stylish hair and black beard with white patches, full body shot, digital art, dark fantasy, Fares Fares, full body shot, realistic, concept art, dark fantasy")

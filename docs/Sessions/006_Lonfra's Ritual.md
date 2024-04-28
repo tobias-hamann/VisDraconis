@@ -14,12 +14,12 @@ tags:
 
 Tags: #Drachenruh 
 
-Vorherige Session: 
+Vorherige Session: [[005_Hilfe für Aidron]]
 ```dataview
 LIST
 WHERE sessionNum = 5
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[007_Ankunft in Niewinter]]
 ```dataview
 LIST
 WHERE sessionNum = 7
@@ -29,4 +29,3 @@ WHERE sessionNum = 7
 - Bevor [[Longfra]] sein Ritual abhalten kann, schleicht sich die Party an ihn heran und sticht ihn brutal ab
 - [[Longfra]] ist der Meinung, dass eine neue Macht die Welt erreicht hat
 - "Wenn die Sterne diese Welt erreichen wird aus einer Legende ein Gott" - [[Longfra]] denkt, dass er einer dieser Götter sein wird.
-- [[Wollknäul McFluffin Toebean]] sucht in der Bibliothek von [[Drachenruh]] nach 

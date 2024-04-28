@@ -14,20 +14,17 @@ tags:
 
 Tags: #Niewinter 
 
-Vorherige Session: 
+Vorherige Session: [[006_Lonfra's Ritual]]
 ```dataview
 LIST
 WHERE sessionNum = 6
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[008_Diebstähle in Niewinter]]
 ```dataview
 LIST
 WHERE sessionNum = 8
 ```
 
 ### Informationen:
-- Karneval in der Stadt
-- Alle Betten belegt
-- Leute sind verkleidet
-- Diebstähle in der Stadt --> [[Die Roten]] aka [[Cultis Draconis]], Splittergruppe der [[Thayaner]]
-- Die Party findet ein Zimmer in der [[Wechselstube]]
+- [[Wollknäul McFluffin Toebean]] sucht in der Bibliothek von [[Drachenruh]] nach Informationen über das Recht der Toebeans über [[Pawchester]] zu herrschen
+- [[Runara]] kennt 

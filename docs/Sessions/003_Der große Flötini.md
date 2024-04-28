@@ -14,12 +14,12 @@ tags:
 
 Tags: #Drachenruh 
 
-Vorherige Session: 
+Vorherige Session: [[002_Die Kompassrose]]
 ```dataview
 LIST
 WHERE sessionNum = 2
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[004_Die Seegrashöhlen]]
 ```dataview
 LIST
 WHERE sessionNum = 4

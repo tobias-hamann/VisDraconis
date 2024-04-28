@@ -10,7 +10,7 @@ tags:
 
 # [[Blue Orb of Dragonkind]]
 
-Tags: 
+Tags: #Item
 
 ### Ort/Besitz:
 - Bei [[Ishamael]] in verwahrung

@@ -14,12 +14,12 @@ tags:
 
 Tags: #Drachenruh 
 
-Vorherige Session: 
+Vorherige Session: [[004_Die Seegrashöhlen]]
 ```dataview
 LIST
 WHERE sessionNum = 4
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[006_Lonfra's Ritual]]
 ```dataview
 LIST
 WHERE sessionNum = 6
