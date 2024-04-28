@@ -6,13 +6,13 @@ type: session
 campaign: VisDraconis
 sessionNum: 006
 Summary: ""
-sessionDate: 
+sessionDate: 2023-03-02
 tags:
 --- 
 
 # [[006_Lonfra's Ritual]]
 
-Tags: 
+Tags: #Drachenruh 
 
 Vorherige Session: 
 ```dataview
