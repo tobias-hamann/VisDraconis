@@ -19,4 +19,7 @@ Tags: #Fraktion #Söldner
 - Söldnergruppe aus [[Karse]]
 
 ### Mitglieder:
-- 
+- [[Thelkalar Ghekax]]
+- [[Cruyíon Redwyn]]
+- [[Varon Fogwater]]
+- ...

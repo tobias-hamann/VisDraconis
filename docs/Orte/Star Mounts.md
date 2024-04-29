@@ -18,5 +18,6 @@ Tags: #Ort
 ![](../assets/images/Maps/Star_Mounts.png)
 
 ### Bewohner:
+- Keine Städte
 - 
 
