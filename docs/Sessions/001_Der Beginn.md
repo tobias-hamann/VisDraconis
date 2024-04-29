@@ -16,7 +16,7 @@ Tags: #Drachenruh
 
 Vorherige Session: -
 
-Nachfolgende Session: [[002_Drachenruh]]
+Nachfolgende Session: [[002_Die Kompassrose]]
 ```dataview
 LIST
 WHERE sessionNum = 2

@@ -19,7 +19,7 @@ Vorherige Session: [[007_Ankunft in Niewinter]]
 LIST
 WHERE sessionNum = 7
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[009_Der Wald ist gefährlich!]]
 ```dataview
 LIST
 WHERE sessionNum = 9
@@ -30,5 +30,7 @@ WHERE sessionNum = 9
 - Alle Betten belegt
 - Leute sind verkleidet
 - Diebstähle in der Stadt --> [[Die Roten]] aka [[Cultis Draconis]], Splittergruppe der [[Thayaner]]
-- Die Party findet ein Zimmer in der [[Wechselstube]]
+- [[Die Party]] begegnet [[Arush 'Ari']] und gibt ihm eine [[Magische Laute]].
+- [[Die Party]] findet ein Zimmer in der [[Wechselstube]].
+- Ein dicker Mann kommt aus einer Kneipe und beißt in eine Möhre.
 - 

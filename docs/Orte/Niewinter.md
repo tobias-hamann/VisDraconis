@@ -13,3 +13,10 @@ tags:
 Tags: 
 
 ### Informationen:
+
+
+### Interessante Orte:
+- Die [[Wechselstube]]
+- Die Stadtwache
+- Die Bibliothek
+- Der [[Beached Leviathan]]

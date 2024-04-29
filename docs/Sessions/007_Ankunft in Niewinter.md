@@ -26,5 +26,6 @@ WHERE sessionNum = 8
 ```
 
 ### Informationen:
-- [[Wollknäul McFluffin Toebean]] sucht in der Bibliothek von [[Drachenruh]] nach Informationen über das Recht der Toebeans über [[Pawchester]] zu herrschen
-- [[Runara]] kennt 
+- [[Wollknäul McFluffin Toebean]] sucht in der Bibliothek von [[Drachenruh]] nach Informationen über das Recht der Toebeans über [[Pawchester]] zu herrschen.
+- [[Runara]] kennt [[Thelkalar Ghekax]], hat ihn aber lange nicht gesehen.
+- [[Die Party]] fährt mit dem Schiff nach [[Niewinter]].
