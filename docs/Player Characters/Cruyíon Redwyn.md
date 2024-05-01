@@ -21,7 +21,8 @@ Tags: #PC
 ![](../assets/images/Cruyion.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- 
+- Söldner und angehöriger der [[Waldschatten]]
 
 ### Informationen:
-- 
+- [[Varon Fogwater]]s Bruder
+- Eladrin Elf

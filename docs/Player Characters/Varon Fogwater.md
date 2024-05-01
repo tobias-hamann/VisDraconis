@@ -21,7 +21,10 @@ Tags: #PC
 ![](../assets/images/Varon Fogwater.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- 
+- Söldner und angehöriger der [[Waldschatten]]
 
 ### Informationen:
-- 
+- Freundlich
+- Zurückhaltend  
+- [[Cruyíon Redwyn]] ist Vorbild und "Bruder"
+- [[Karse]] ist Heimatort

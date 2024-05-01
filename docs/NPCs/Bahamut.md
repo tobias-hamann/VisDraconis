@@ -23,4 +23,4 @@ Tags: #NPC #Gott #Drache n
 - Gott
 
 ### Informationen:
-- 
+- Wird von [[Varon Fogwater]] angebetet

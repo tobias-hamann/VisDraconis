@@ -20,7 +20,8 @@ Tags: #NPC
 ![Thelkalar Ghekax](../assets/images/NPCs/Thelkalar Ghekax.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- Mitglied der [[]]
+- Mitglied der [[Waldschatten]]
 
 ### Informationen:
 - aka Meister Thel
+- Derzeit vermutlich im [[Gefängnis für politische Gefangene]] in [[Waterdeep]]

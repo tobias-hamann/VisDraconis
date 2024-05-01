@@ -5,8 +5,8 @@ name: Wollknäul McFluffin Toebean
 type: pc 
 campaign: VisDraconis
 race: Tabaxi
-faction:
-alignment: ?
+faction: Die Party
+alignment: Chaotic Neutral
 tags:
 
 --- 
@@ -21,7 +21,8 @@ Tags: #PC
 ![](../assets/images/Wollknäul McFluffin Toebean.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- 
+- Prinzessin von [[Pawchester]]
 
 ### Informationen:
-- 
+- Incognito unterwegs
+- Sidekick: Ratte namens [[Sir Applejuice]]

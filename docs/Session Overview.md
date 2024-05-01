@@ -24,4 +24,8 @@ WHERE type = "session"
 
 ## Akt 1: [[Die Roten]] in [[Niewinter]]
 - [[007_Ankunft in Niewinter]]
+- [[008_Diebstähle in Niewinter]]
+- [[009_Der Wald ist gefährlich!]]
+- [[010_Wir gehen in den Wald!]]
+- [[011_Prügel im Wald]]
 

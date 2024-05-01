@@ -20,7 +20,9 @@ Tags:
 ![Sly Boogy](../assets/images/NPCs/Sly_Boogy.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- 
+- Mitglied der [[Zhentarim]]
+- Geschäftsmann in [[Niewinter]]
 
 ### Informationen:
-- 
+- Hat ein [[Medallion der Zhentarim]] an [[Die Party]] gegeben
+- Hat das [[]]
