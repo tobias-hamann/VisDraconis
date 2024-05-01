@@ -29,9 +29,9 @@ WHERE sessionNum = 9
 - Karneval in der Stadt
 - Alle Betten belegt
 - Leute sind verkleidet
-- Diebstähle in der Stadt --> [[Die Roten]] aka [[Cultis Draconis]], Splittergruppe der [[Thayaner]]
+- Diebstähle in der Stadt --> Die [[Roten]] aka [[Cultis Draconis]], Splittergruppe der [[Thayaner]]
 - [[Die Party]] begegnet [[Arush 'Ari']] und gibt ihm eine [[Magische Laute]].
 - [[Die Party]] findet ein Zimmer in der [[Wechselstube]].
 - Ein dicker Mann kommt aus einer Kneipe und beißt in eine Möhre.
 - Befragung der Brüder [[Chris Brody]] und [[Evan Brody]]
-- Kampf gegen [[Die Roten]]: [[Glord Axebreaker]] wird laufen gelassen, [[Wollknäul McFluffin Toebean]] behält aber einen Zahn
+- Kampf gegen die [[Roten]]: [[Glord Axebreaker]] wird laufen gelassen, [[Wollknäul McFluffin Toebean]] behält aber einen Zahn

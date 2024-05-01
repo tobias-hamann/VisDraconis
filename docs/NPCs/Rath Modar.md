@@ -20,7 +20,7 @@ Tags: #NPC
 ![Rath Modar](../assets/images/NPCs/Rath_Modar.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- [[Thayaner]] und Teil des [[Cultis Draconis]] aka. [[Die Roten]]
+- [[Thayaner]] und Teil des [[Cultis Draconis]] aka. [[Roten]]
 
 ### Informationen:
 - 

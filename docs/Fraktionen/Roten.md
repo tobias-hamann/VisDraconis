@@ -10,7 +10,7 @@ tags:
 
 --- 
 
-# [[Die Roten]]
+# [[Roten]]
 
 Tags: #Niewinter #Waterdeep #Gauntlgrym
 

@@ -5,7 +5,7 @@ modification date: Saturday 13th April 2024 12:43:47
 name: Sly Boogy
 type: npc 
 campaign: VisDraconis
-race: 
+race: Zwerg
 faction: Zhentraim
 alignment: ?
 tags:
@@ -25,4 +25,6 @@ Tags:
 
 ### Informationen:
 - Hat ein [[Medallion der Zhentarim]] an [[Die Party]] gegeben
-- Hat das [[]]
+- Hat einen Koffer "verloren" (wurde von [[Roten]] geklaut): Auftrag an [[Die Party]], den Koffer zurück zu holen
+- Hat das [[Deep Purple]] betrieben, dann an [[Roten]] verkauft und es kostengünstig durch [[Die Party]] zurückerobern lassen
+- Rechte Hand: [[Alfons Godeau]]

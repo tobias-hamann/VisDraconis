@@ -23,5 +23,7 @@ Tags: #Fraktion
 - ehem.: [[Azbara Jos]] aka. Lord Varian
 - Lord Selachii
 - Lady Selachii
-- Lord Rust wurde von [[Die Roten]] getötet, Sohn Gravit Rust hat nun den Platz inne
+- [[Lord Slinder]]
+- [[Lord Rotley]]
+- Lord Rust wurde von [[Roten]] getötet, Sohn Gravit Rust hat nun den Platz inne
 - ...

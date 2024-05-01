@@ -21,7 +21,7 @@ Tags: #NPC #Thayaner #Roten #Cultist
 
 ### Beschäftigung:
 - Ehem. Mitglied des [[Rat von Niewinter]]
-- [[Thayaner]] und Teil des [[Cultis Draconis]] aka. [[Die Roten]]
+- [[Thayaner]] und Teil des [[Cultis Draconis]] aka. [[Roten]]
 
 ### Informationen:
 - In [[Stratherax]] Dungeon durch [[Die Party]] getötet worden

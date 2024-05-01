@@ -28,4 +28,8 @@ Tags: #NPC #Drache
 - Ist sehr alt
 - Ehem. Hüter des [[Blue Orb of Dragonkind]]
 - DM Notes: Sein Dungeon is trippy as fuck! 
-- Hat [[Die Party]] darüber informiert, dass [[Die Roten]] eigentlich [[Thayaner]] sind
+- Hat [[Die Party]] darüber informiert, dass [[Roten]] eigentlich [[Thayaner]] sind
+- Gibt [[Die Party]] Fähigkeiten:
+	- [[Cruyíon Redwyn]]: Find the Thay
+	- [[Wollknäul McFluffin Toebean]]: Fool the Thay
+	- [[Varon Fogwater]]: Slay the Thay

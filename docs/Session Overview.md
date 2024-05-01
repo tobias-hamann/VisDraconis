@@ -22,7 +22,7 @@ WHERE type = "session"
 - [[005_Hilfe für Aidron]]
 - [[006_Lonfra's Ritual]]
 
-## Akt 1: [[Die Roten]] in [[Niewinter]]
+## Akt 1: [[Roten]] in [[Niewinter]]
 - [[007_Ankunft in Niewinter]]
 - [[008_Diebstähle in Niewinter]]
 - [[009_Der Wald ist gefährlich!]]

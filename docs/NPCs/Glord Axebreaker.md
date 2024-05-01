@@ -20,7 +20,7 @@ Tags: #NPC #Niewinter
 ![Glord Axebreaker](../assets/images/NPCs/Glord Axebreaker.png ", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
-- War von [[Die Roten]] angeheuert worden
+- War von [[Roten]] angeheuert worden
 - Hat sich nach Norden abgesetzt nachdem [[Die Party]] die Roten, mit denen er unterwegs war, kaputt gekloppt hat
 
 ### Informationen:

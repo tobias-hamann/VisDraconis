@@ -17,8 +17,8 @@ Tags: #Ort #Thayaner
 - Ehemalige Vergnügungseinrichtung von [[Sly Boogy]]
 - [[Rat von Niewinter]] hat [[Sly Boogy]]s Aktivitäten in [[Niewinter]] gebilligt, vor allem begünstigt durch [[Azbara Jos]] aka. Lord Varian.
 - [[Sly Boogy]]s Kunden mussten nicht mehr so weit aufs Meer rausfahren, [[Deep Purple]] wurde weniger lukrativ
-- Wurde von [[Sly Boogy]] and [[Die Roten]] verkauft
-- [[Sly Boogy]] erfährt, dass [[Die Roten]] böse sind und hat neue Kunden für das [[Deep Purple]]
+- Wurde von [[Sly Boogy]] and [[Roten]] verkauft
+- [[Sly Boogy]] erfährt, dass [[Roten]] böse sind und hat neue Kunden für das [[Deep Purple]]
 - [[Sly Boogy]] beauftragt [[Die Party]], [[Deep Purple]] wieder einzunehmen für ihn
 - Mission:
 	- Wir sollen einen Kristall an ein Pult anbringen

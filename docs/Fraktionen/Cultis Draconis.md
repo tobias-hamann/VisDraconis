@@ -17,7 +17,7 @@ Tags: #Fraktion
 
 ### Informationen:
 - Splittergruppe der [[Thayaner]]
-- Auch bekannt unter [[Die Roten]]
+- Auch bekannt unter [[Roten]]
 
 ### Mitglieder:
 - [[Rath Modar]]

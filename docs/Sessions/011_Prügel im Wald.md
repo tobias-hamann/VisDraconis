@@ -19,7 +19,7 @@ Vorherige Session: [[010_Wir gehen in den Wald!]]
 LIST
 WHERE sessionNum = 10
 ```
-Nachfolgende Session: 
+Nachfolgende Session: [[012_Zurück in der Stadt und ab in den Keller]]
 ```dataview
 LIST
 WHERE sessionNum = 12

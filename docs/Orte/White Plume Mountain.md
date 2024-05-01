@@ -17,7 +17,7 @@ Tags: #Ort #Waterdeep
 - Berg mit vielen Geheimnissen
 - Verschachteltes Tunnelnetzwerk im Berg
 - Östlich von [[Waterdeep]]
-- [[Die Roten]] haben auch versucht hier den [[White Orb of Dragonkind]] zu erlangen
+- [[Roten]] haben auch versucht hier den [[White Orb of Dragonkind]] zu erlangen
 - [[Die Party]] hat den [[White Orb of Dragonkind]] bekommen
 
 ### Bewohner:

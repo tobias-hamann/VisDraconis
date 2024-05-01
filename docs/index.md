@@ -3,7 +3,7 @@
 Die Dokumentation für das D&D Abenteuer, in dem die Ökonomie in Trümmern liegt und böse Mächte am Werk sind.
 
 Viele Fragen sind noch offen:
-- Was haben [[Die Roten]] vor?
+- Was haben [[Roten]] vor?
 - Wie ist [[Ogmar]] involviert?
 - Wie geht's [[Wolfgang]]?
 - Was passiert in [[Waterdeep]] und [[Niewinter]]?
