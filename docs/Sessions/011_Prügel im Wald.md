@@ -26,4 +26,6 @@ WHERE sessionNum = 12
 ```
 
 ### Informationen:
-- Kampf in 
+- Kampf gegen [[Azbara Jos]]
+- [[Die Party]] gelangt in den Besitz des [[Blue Orb of Dragonkind]]
+- 

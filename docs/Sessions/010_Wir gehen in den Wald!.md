@@ -26,4 +26,5 @@ WHERE sessionNum = 11
 ```
 
 ### Informationen:
-- Kampf gegen 
+- [[Die Party]] begegnet [[Stratherax]]
+- [[Gary]] schließt sich [[Die Party]] an
