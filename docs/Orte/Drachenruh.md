@@ -14,5 +14,11 @@ tags:
 Tags: #Drachenruh 
 
 ### Informationen:
+- Liegt auf den [[Strumwrackinseln]]
 
 ### Bewohner:
+- [[Runara]]
+- [[Minn]]
+- [[Mek]]
+- [[Milah]]
+- [[Aidron]] 

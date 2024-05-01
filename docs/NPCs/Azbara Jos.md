@@ -17,7 +17,7 @@ tags:
 Tags: #NPC #Thayaner #Roten #Cultist
 
 ### Aussehen:
-![ Azbara Jos](../assets/images/NPCs/ Azbara_Jos.png ", full body shot, realistic, concept art, dark fantasy")
+![ Azbara Jos](../assets/images/NPCs/Azbara_Jos.png", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
 - Ehem. Mitglied des [[Rat von Niewinter]]

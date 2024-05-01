@@ -14,7 +14,7 @@ tags:
 
 # [[Lord Rotley]]
 
-Tags: #NPC
+Tags: #NPC #Niewinter 
 
 ### Aussehen:
 ![Lord Rotley](../assets/images/NPCs/Lord Rotley.png ", full body shot, realistic, concept art, dark fantasy")
