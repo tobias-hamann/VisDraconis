@@ -13,7 +13,7 @@ tags:
 Tags: #Item
 
 ### Ort/Besitz:
-- Im Rucksack von 
+- Im Rucksack von [[Varon Fogwater]]
 
 ### Informationen:
 - War im [[White Plume Mountain]]
