@@ -28,4 +28,7 @@ WHERE type = "session"
 - [[009_Der Wald ist gefährlich!]]
 - [[010_Wir gehen in den Wald!]]
 - [[011_Prügel im Wald]]
+- [[012_Zurück in der Stadt und ab in den Keller]]
+- [[013_Kellerkinder kriegen Klatschen]]
+- [[014_High Command der Roten in Niewinter]]]
 
