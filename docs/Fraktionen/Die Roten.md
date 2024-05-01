@@ -16,7 +16,8 @@ Tags: #Niewinter #Waterdeep #Gauntlgrym
 
 
 ### Informationen:
-- Splittergruppe der [[Thayaner]]
+- Splittergruppe der [[Thayaner]] und weitere Anhänger, die nicht Thayaner sind
 
 ### Mitglieder:
-- 
+- [[Rath Modar]]
+- [[Azbara Jos]]

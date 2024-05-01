@@ -20,6 +20,6 @@ Tags: #Ort #Niewinter
 - Inhaber
 - Stammgäste:
 	- [[Wolfgang]]
-	- [[Trillion]]
+	- [[Trillion Vanland]]
 	- Tina
 

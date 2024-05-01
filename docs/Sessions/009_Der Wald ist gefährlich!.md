@@ -26,4 +26,6 @@ WHERE sessionNum = 10
 ```
 
 ### Informationen:
+- Weitere Prügel mit [[Die Roten]]: [[Glord Axebreaker]] wird laufen gelassen, [[Wollknäul McFluffin Toebean]] behält aber einen Zahn
+- [[Die Party]] geht in die [[Wechselstube]] und hört, dass die [[Werwölfe]] nicht in den [[Östlicher Wald]] gehen sollen
 - 

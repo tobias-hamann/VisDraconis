@@ -13,10 +13,17 @@ tags:
 Tags: 
 
 ### Informationen:
-
+- 
 
 ### Interessante Orte:
 - Die [[Wechselstube]]
 - Die Stadtwache
 - Die Bibliothek
 - Der [[Beached Leviathan]]
+- [[Tempel Bahamuts]]
+
+### Bewohner:
+- [[Sly Boogy]]
+- [[Trillion Vanland]]
+- [[Chris Brody]] und [[Evan Brody]]
+- ehem. [[Azbara Jos]]

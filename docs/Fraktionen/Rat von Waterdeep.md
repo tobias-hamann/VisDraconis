@@ -16,5 +16,7 @@ Tags: #Waterdeep
 
 
 ### Informationen:
-- Besteht aus
-	- 
+- Besteht aus:
+	- Mitgliedern der [[Smaragtenklave]]:
+		- [[Stratherax]]
+	- [[]]

@@ -18,5 +18,7 @@ Tags: #Fraktion
 ### Informationen:
 - Splittergruppe der [[Thayaner]]
 - Auch bekannt unter [[Die Roten]]
+
 ### Mitglieder:
-- 
+- [[Rath Modar]]
+- [[Azbara Jos]]

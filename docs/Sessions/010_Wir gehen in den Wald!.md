@@ -26,4 +26,4 @@ WHERE sessionNum = 11
 ```
 
 ### Informationen:
-- 
+- Kampf gegen 

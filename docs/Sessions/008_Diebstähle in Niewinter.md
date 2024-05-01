@@ -33,4 +33,5 @@ WHERE sessionNum = 9
 - [[Die Party]] begegnet [[Arush 'Ari']] und gibt ihm eine [[Magische Laute]].
 - [[Die Party]] findet ein Zimmer in der [[Wechselstube]].
 - Ein dicker Mann kommt aus einer Kneipe und beißt in eine Möhre.
-- 
+- Befragung der Brüder [[Chris Brody]] und [[Evan Brody]]
+- Kampf gegen [[Die Roten]]: [[Glord Axebreaker]] wird laufen gelassen, [[Wollknäul McFluffin Toebean]] behält aber einen Zahn
