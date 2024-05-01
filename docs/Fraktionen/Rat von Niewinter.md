@@ -16,7 +16,12 @@ Tags: #Fraktion
 
 
 ### Informationen:
--
+- aka die Lord von [[Niewinter]]
+- Sind Teil der [[Lord's Alliance]]
 
 ### Mitglieder:
-- ehem.: [[Azbara Jos]]
+- ehem.: [[Azbara Jos]] aka. Lord Varian
+- Lord Selachii
+- Lady Selachii
+- Lord Rust wurde von [[Die Roten]] getötet, Sohn Gravit Rust hat nun den Platz inne
+- ...

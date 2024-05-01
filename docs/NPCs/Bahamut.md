@@ -14,7 +14,7 @@ tags:
 
 # [[Bahamut]]
 
-Tags: #NPC #Gott #Drache n
+Tags: #NPC #Gott #Drache
 
 ### Aussehen:
 ![Bahamut](../assets/images/NPCs/Bahamut.png ", full body shot, realistic, concept art, dark fantasy")

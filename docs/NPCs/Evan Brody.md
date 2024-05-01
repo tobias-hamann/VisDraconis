@@ -17,10 +17,11 @@ tags:
 Tags: #NPC
 
 ### Aussehen:
-![Evan Brody](../assets/images/NPCs/Evan Brody.png ", full body shot, realistic, concept art, dark fantasy")
+![Evan Brody](../assets/images/NPCs/Evan_Brody.png", full body shot, realistic, concept art, dark fantasy")
 
 ### Beschäftigung:
 - Hat eine Schmiede in [[Niewinter]]
+- Sehr talentierter Schmied
 
 ### Informationen:
 - Bruder: [[Chris Brody]]
